@@ -1,5 +1,10 @@
 Deploying Strapi in EC2 with terraform and Implement CI/CD using Github actions.
 
+Documentation: https://docs.google.com/document/d/1mmJWL3Jwanv7NcuTvLIkxiN7qyqg4xe_73eeUqv-R5E/edit?usp=sharing
+
+Screencast: https://www.loom.com/share/1e081843a91543db8a2c01fac7b15a77?sid=86d695f6-656f-45c9-8495-13571f050e40
+
+
 This repo contains :
 
 1.Created Terraform configuration files to set up the infrastructure on AWS.
